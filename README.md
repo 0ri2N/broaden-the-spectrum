@@ -32,3 +32,7 @@ This repository contains work for the Nervos hackathon.
  - #### Gitcoin: 6
     - **Issue:** [Use Force Bridge to Deposit Tokens From Ethereum to Polyjuice](https://gitcoin.co/issue/nervosnetwork/grants/7/100026213)
     - **Work:** [Force Bridge](Force%20Bridge/README.md)
+
+ - #### Gitcoin: 9
+    - **Issue:** [Initiate Withdrawal Process from the Layer 2 back to Layer 1](https://gitcoin.co/issue/nervosnetwork/grants/10/100026216)
+    - **Work:** [Initiate Withdrawal](Initiate%20Withdrawal/README.md)
