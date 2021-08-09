@@ -28,3 +28,7 @@ This repository contains work for the Nervos hackathon.
  - #### Gitcoin: 5
     - **Issue:** [Deploy the ERC20 Proxy Contract for the Deposited SUDT](https://gitcoin.co/issue/nervosnetwork/grants/6/100026212)
     - **Work:** [Proxy Contract](Proxy%20Contract/README.md)
+
+ - #### Gitcoin: 6
+    - **Issue:** [Use Force Bridge to Deposit Tokens From Ethereum to Polyjuice](https://gitcoin.co/issue/nervosnetwork/grants/7/100026213)
+    - **Work:** [Force Bridge](Force%20Bridge/README.md)
