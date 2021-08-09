@@ -20,3 +20,7 @@ This repository contains work for the Nervos hackathon.
  - #### Gitcoin: 3
     - **Issue:** [Issue a Smart Contract Call to the Deployed Smart Contract](https://gitcoin.co/issue/nervosnetwork/grants/4/100026210)
     - **Work:** [Contract Call](Contract%20Call/README.md)
+
+ - #### Gitcoin: 4
+    - **Issue:** [Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](https://gitcoin.co/issue/nervosnetwork/grants/5/100026211)
+    - **Work:** [SUDT Token](SUDT%20Token/README.md)
