@@ -16,3 +16,7 @@ This repository contains work for the Nervos hackathon.
  - #### Gitcoin: 2
     - **Issue:** [Deploy a Simple Ethereum Smart Contract on Polyjuice](https://gitcoin.co/issue/nervosnetwork/grants/3/100026209)
     - **Work:** [Smart Contract](Smart%20Contract/README.md)
+
+ - #### Gitcoin: 3
+    - **Issue:** [Issue a Smart Contract Call to the Deployed Smart Contract](https://gitcoin.co/issue/nervosnetwork/grants/4/100026210)
+    - **Work:** [Contract Call](Contract%20Call/README.md)
