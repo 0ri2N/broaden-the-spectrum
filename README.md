@@ -24,3 +24,7 @@ This repository contains work for the Nervos hackathon.
  - #### Gitcoin: 4
     - **Issue:** [Issue an SUDT Token on Layer 1 and Deposit it to Layer 2](https://gitcoin.co/issue/nervosnetwork/grants/5/100026211)
     - **Work:** [SUDT Token](SUDT%20Token/README.md)
+
+ - #### Gitcoin: 5
+    - **Issue:** [Deploy the ERC20 Proxy Contract for the Deposited SUDT](https://gitcoin.co/issue/nervosnetwork/grants/6/100026212)
+    - **Work:** [Proxy Contract](Proxy%20Contract/README.md)
