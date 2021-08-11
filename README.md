@@ -33,6 +33,14 @@ This repository contains work for the Nervos hackathon.
     - **Issue:** [Use Force Bridge to Deposit Tokens From Ethereum to Polyjuice](https://gitcoin.co/issue/nervosnetwork/grants/7/100026213)
     - **Work:** [Force Bridge](Force%20Bridge/README.md)
 
+ - #### Gitcoin: 7
+    - **Issue:** [Port an Existing Ethereum dApp to Polyjuice](https://gitcoin.co/issue/nervosnetwork/grants/8/100026214)
+    - **Work:** [Ethereum DApp](Ethereum%20DApp/README.md)
+
+ - #### Gitcoin: 8
+    - **Issue:** [Modify the Ported dApp so it Supports Ethereum Assets via Force Bridge](https://gitcoin.co/issue/nervosnetwork/grants/9/100026215)
+    - **Work:** [DApp Bridge](DApp%20Bridge/README.md)
+
  - #### Gitcoin: 9
     - **Issue:** [Initiate Withdrawal Process from the Layer 2 back to Layer 1](https://gitcoin.co/issue/nervosnetwork/grants/10/100026216)
     - **Work:** [Initiate Withdrawal](Initiate%20Withdrawal/README.md)
