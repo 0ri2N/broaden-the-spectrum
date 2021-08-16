@@ -3,7 +3,8 @@
 ### Gitcoin: 7) Port an Existing Ethereum dApp to Polyjuice
 
 - [x] Link to the GitHub repository with your application which has been ported to Godwoken. **This must be a different application than the one covered in this guide.**
-  - https://github.com/ririen/fancy-names
+  - **Repository:** https://github.com/ririen/fancy-names
+  - **Live deploy:** http://fancy-names.vercel.app/ 
 
 - [x] Screenshots or video of your application running on Godwoken.
 
