@@ -49,6 +49,10 @@ This repository contains work for the Nervos hackathon.
     - **Issue:** [Complete Withdrawal Process by Unlocking the Funds](https://gitcoin.co/issue/nervosnetwork/grants/11/100026217)
     - **Work:** [Complete Withdrawal](Complete%20Withdrawal/README.md)
 
+- #### Gitcoin: 11
+   - **Issue:** [Use a Tron Wallet to Execute a Smart Contract Call](https://gitcoin.co/issue/nervosnetwork/grants/15/100026366)
+   - **Work:** [Tron Wallet](Tron%20Wallet/README.md)
+
 - #### Gitcoin: 12
    - **Issue:** [Document Porting an Existing Ethereum dApp to Polyjuice](https://gitcoin.co/issue/nervosnetwork/grants/16/100026367)
    - **Work:** [Polydoc](Polydoc/README.md)
